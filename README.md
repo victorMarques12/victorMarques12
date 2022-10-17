@@ -8,5 +8,5 @@
 victorMarques12/victorMarques12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?userName=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?victorMarques12=anuraghazra&show_icons=true&theme=radical)
 
